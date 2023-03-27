@@ -17,8 +17,8 @@ three tips to prepare before welcoming it into the family.
 <p>3. we had to train the model to recognize and analyze faces and use OpenAI to generate answers based on the results. These two characteristics give users the opportunity to interact with AI beyond just having fun.</p>
 <p>4. and this is just fun! We don't have to be so serious about identity. Sometimes the chance to have a little fun and be happy can be the thing that keeps our own healthy identity.</p>
 
-<h2>-- The technology/resource I used</h2>
-  <h3>Teachable Machine<h3>
+<h2>The technology/resource I used</h2>
+  <h3>-- Teachable Machine<h3>
     <p>Teachable Machine is an online platform that allows users to train their own machine learning models without any coding knowledge. Users can create custom image, sound, or gesture recognition models by providing examples of what they want the model to identify. The platform is easy to use, and the resulting models can be exported for use in a variety of applications.</p>  
     <a href="https://teachablemachine.withgoogle.com/"> check here</a>
   <h3>-- OpenAI API<h3>
