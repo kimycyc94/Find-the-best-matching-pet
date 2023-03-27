@@ -5,7 +5,7 @@ I won the overall winner award in the 2023 Yhack hackathon competition!
 The theme of the Yhack this year was "identity" and "AI". I created a fun and quick facial recognition web app.
 This is an app that allows users to upload a photo of themselves and then analyze the photo to show them which pet would be the best fit for them. 
 Based on the results, the AI robot will tell you the two best things about the pet and three tips to prepare before welcoming it into the family. 
-<\n>
+
 <h3>I thought this was a good fit for the themes of this Yhack, "Identity" and "AI"</h3>
 1. Nowadays, pets are not just animals, they have a bigger meaning and help many people to learn about happiness and pleasure. Pets are people's best friends and family members. Therefore, pets are grateful friends who help people realize their identity.
 2. Many people grow up with pets from a young age. They learn to be responsible, learn to love others and learn to respect others. That is why pets help people learn their identity.  
